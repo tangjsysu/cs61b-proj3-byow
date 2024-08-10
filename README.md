@@ -7,9 +7,11 @@ This project generates a map using Kruskal's algorithm to create a minimum spann
 - **Map Generation:** 
   - Utilizes Kruskal's algorithm to generate a minimum spanning tree.
   - Connects all rooms efficiently with the least number of connections.
+  - ![image](https://github.com/tangjsysu/cs61b-proj3-byow/blob/main/img/bmow.PNG)
   
 - **Element Placement:** 
   - Adds coins, light sources, and other components to the map.
 
 - **Pathfinding:**
   - Implements the A* algorithm to calculate the shortest path to reach the coins.
+  - ![image]()
