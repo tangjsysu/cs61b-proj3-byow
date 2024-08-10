@@ -14,4 +14,4 @@ This project generates a map using Kruskal's algorithm to create a minimum spann
 
 - **Pathfinding:**
   - Implements the A* algorithm to calculate the shortest path to reach the coins.
-  - ![image]()
+  - ![image](https://github.com/tangjsysu/cs61b-proj3-byow/blob/main/img/bmow_atar.PNG)
