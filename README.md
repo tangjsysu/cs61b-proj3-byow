@@ -1,0 +1,1 @@
+The map is generated using Kruskal's algorithm to create a minimum spanning tree that connects the various rooms. Coins, light sources, and other elements are then added to the map. The A* algorithm is used to find the shortest path to reach the coins.
